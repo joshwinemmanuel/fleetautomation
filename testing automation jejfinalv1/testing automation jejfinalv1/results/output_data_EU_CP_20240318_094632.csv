@@ -1,0 +1,2 @@
+Date,Hostname,Plate number,Car Type,Primary Category,Secondary Category,Car Version,Maintain Status,Tags,Car City,Autonomous driving mileage (km),Manual driving mileage (km),Total mileage (km),Automatic driving time (min),Manual driving time (min),Total driving time (min),Takeover,D gear time (min),R gear time (min)
+2024-02-09 00:00:00+08:00,S450L-BBSQ3150,S450L-BBSQ3150,S580V223,Others,Harz,Devcar,检修/维修,,斯图加特,17.051209211658815,11.307752569189656,28.358961780848475,24.651666666666642,95.97324999999992,120.62491666666656,8,59.17076666666663,0.3166833333333333
