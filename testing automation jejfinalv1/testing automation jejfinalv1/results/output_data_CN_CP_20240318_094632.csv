@@ -1,2 +1,0 @@
-Date,Hostname,Plate number,Car Type,Primary Category,Secondary Category,Car Version,Maintain Status,Tags,Car City,Autonomous driving mileage (km),Manual driving mileage (km),Total mileage (km),Automatic driving time (min),Manual driving time (min),Total driving time (min),Takeover,D gear time (min),R gear time (min)
-2024-02-07 00:00:00+08:00,A19X-S00316,A19X-S00316,A19X,CP,系统闭环安全员路测,Epcar,正常,M使用,广州,13.394765702958624,64.66234301944611,78.05710872240473,23.968583333333324,586.7423166666669,610.7109000000002,19,211.33216666666647,2.8335166666666667
