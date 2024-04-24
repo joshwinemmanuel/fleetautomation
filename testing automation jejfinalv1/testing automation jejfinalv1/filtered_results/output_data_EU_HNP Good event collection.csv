@@ -1,0 +1,2 @@
+Date,Hostname,Plate number,Car Type,Primary Category,Secondary Category,Car Version,Maintain Status,Tags,Car City,Autononous driving mileage (km),Manual driving mileage (km),Total mileage (km),Autononous driving time (hr),Manual driving time (hr),Total driving time (hr),Activate time (hr),D gear time (hr),R gear time (hr),Takeover
+2024-04-17,S580-BBQS3499,BBQS3499,S580V223,CP,模块自闭环安全员路测,Epcar,正常,CL_Testing,斯图加特,1.456255383508064,226.85354215524396,228.309797538752,0.0341688888888888,4.635589166666664,4.669758055555553,7.731354444444444,4.651701111111109,0.0180569444444444,5
