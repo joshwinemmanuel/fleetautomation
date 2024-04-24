@@ -1,8 +1,4 @@
-# Fleet Automation README
-
-## Overview
-
-This repository contains a script for automating fleet data analysis and reporting. Follow the steps below to set up and execute the script efficiently.
+# README
 
 ## Setup Instructions
 
