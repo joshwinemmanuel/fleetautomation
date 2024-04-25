@@ -8,15 +8,15 @@ Clone this repository to your local machine or pull the latest changes if you al
 
 ### Step 2: Open Script
 
-Open the file named "CN_EU_CP_HNP_v4.5.py" in your preferred code editor.
+Open the file named **"CN_EU_CP_HNP_v4.5.py"** for weekly report generation and **"EU_Fleet_Daily_v1.0.py"** for daily reports in your preferred code editor.
 
 ### Step 3: Configure Weeks Details
 
-Open the file named "filter_data.csv" and enter the details for the weeks using any spreadsheet application. You can use the "Fleet Report" sheet in Feishu or any other spreadsheet application.
+Open the file named **"filter_data.csv"** and enter the details for the weeks using any spreadsheet application. You can use the **"Fleet Report"** sheet in Feishu or any other spreadsheet application.
 
 ### Step 4: Replace Input Data
 
-Replace the placeholder "inputfromfmp.csv" with the actual CSV file downloaded from FMP (Fleet Management Platform) or any other data source. Update the following line in the script accordingly:
+Replace the placeholder **"inputfromfmp.csv"** with the actual CSV file downloaded from FMP. Update the following line in the script accordingly:
 
 ```python
 data_df = pd.read_csv('inputfromfmp.csv')
@@ -28,7 +28,7 @@ Execute the script to perform the fleet data analysis.
 
 ### Step 6: Copy Results to Feishu Sheet
 
-Copy the results generated in "summary.csv" and "eu_summary.csv" to the "Fleet Operations KANBAN Board" sheet in Feishu or any other desired location.
+Copy the results generated in **"summary.csv"** and **"eu_summary.csv"** to the **"Fleet Operations KANBAN Board"** sheet for weekly reports and **"eu_summary daily.csv"** and **"Car_summary_Daily.csv"** to **"Daily Fleet Efficiency Tracking"** in Feishu.
 
 ## Docker Instructions (Optional)
 
